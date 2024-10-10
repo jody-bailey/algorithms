@@ -4,7 +4,7 @@ This repo is a work in progress. It will be used as a way to track my progress r
 
 The plan is to work through [Introduction to Algorithms](https://a.co/d/gGKnQc8) and as I learn each algorithm, I will add it to this Go module.
 
-### Introduction to Algorithms - Algorithms Checklist
+## Introduction to Algorithms - Algorithms Checklist
 
 - [x] [Insertion Sort](./insertion_sort.go)
 - [x] [Merge Sort](./merge_sort.go)
