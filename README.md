@@ -9,7 +9,7 @@ The plan is to work through [Introduction to Algorithms](https://a.co/d/gGKnQc8)
 - [x] [Insertion Sort](./insertion_sort.go)
 - [x] [Merge Sort](./merge_sort.go)
 - [x] [Bubble Sort](./bubble_sort.go)
-- [ ] Binary Search
+- [x] [Binary Search](./binary_search.go)
 - [ ] Maximum Subarray
 - [ ] Strassen’s Algorithm for Matrix Multiplication
 - [ ] Heap Sort
